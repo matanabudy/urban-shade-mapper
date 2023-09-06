@@ -1,0 +1,14 @@
+numpy~=1.25.1
+requests~=2.31.0
+Pillow~=9.5.0
+streetview @ git+https://github.com/matanabudy/streetview.git@retrieve_actual_panorama
+geopy~=2.3.0
+opencv-python~=4.8.0.74
+tqdm~=4.65.0
+matplotlib~=3.7.2
+transformers~=4.31.0
+python-dotenv~=1.0.0
+segment-anything
+torchvision
+torch
+retrying
